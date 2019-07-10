@@ -1,0 +1,5 @@
+entity.localist_pull.add_form:
+  route_name: 'entity.localist_pull.add_form'
+  title: 'Add localist_pull'
+  appears_on:
+    - localist_pull.localist_pull.collection

@@ -1,0 +1,6 @@
+localist_pull.localist_pull.collection:
+  title: 'Configure Localist Entities.'
+  route_name: localist_pull.localist_pull.collection
+  description: 'Storage of localist entity objects'
+  parent: system.admin_config_system
+  weight: 99
